@@ -8,7 +8,6 @@
 body{
     background-color: #212121;
 
-
 }
 
 .container{
@@ -36,6 +35,19 @@ body{
     border-radius: 4px;
     margin-top: 7px;
     font-weight: 600;
+}
+
+.qr-input {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.container p {
+    font-size: 20px;
+}
+
+.qr-box img{
+    height: 8rem;
 }
 
 .error{
